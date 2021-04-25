@@ -1,1 +1,4 @@
 # CS340
+For this project, I developed a user interface for a Mongo database that I created from a CSV containing data form animal shelters in Texas. The UI used a Python module I developed to interface with data in the database. The Python module developed for this project was serves as a generic access interface that can be extended to work with any other projects that interface with a Mongo database.\
+\
+My approach to solving this problem was to produce work on each part of the interface that was detailed in the requirements documentation and review the requirements at each milestone to ensure the project accurately represented the intention and requirements as a whole. In this project there were a couple interfaces that required careful planning and forethought to ensure they would operate cooperatively. In the future, I would improve efficiency of searches by creating compound indices on the static search filters detailed in the requirements document.
